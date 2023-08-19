@@ -132,4 +132,4 @@ Below is the color palette used in this application:
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2022 © [Vaibhav Saxena](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fgithub.com%2FVaiibhaav&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NmE0ZGEyZjktYTE3ZS00OWFkLTkyNmEtNzE3YTA4YzU2ODU4XzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BQe3UCZ5AT%2FS0FExM2RgV4Q%3D%3D)
+- Copyright 2023 © [Vaibhav Saxena](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fgithub.com%2FVaiibhaav&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NmE0ZGEyZjktYTE3ZS00OWFkLTkyNmEtNzE3YTA4YzU2ODU4XzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BQe3UCZ5AT%2FS0FExM2RgV4Q%3D%3D)
