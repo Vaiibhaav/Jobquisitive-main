@@ -19,38 +19,57 @@ NOTE: Please read the RUN section before opening an issue.
 
 ## Demo
 
+######User Side
+
 ###### Landing Page
 
-![screenshot](screenshots/Landing.png)
+![screenshot](screenshots/1.png)
 
-###### Register Page
+###### User Login Page
 
-![screenshot](screenshots/Register.png)
+![screenshot](screenshots/2.png)
 
-###### Login Page
+###### User Register Page
 
-![screenshot](screenshots/Login.png)
+![screenshot](screenshots/3.png)
 
-###### Stats Page
+###### User DashBoard Page
 
-![screenshot](screenshots/Stats.png)
+![screenshot](screenshots/4.png)
 
-###### All Jobs Page
+###### User Tracked Jobs Page
 
-![screenshot](screenshots/AllJobsSearch.png)
-![screenshot](screenshots/AllJobsPagination.png)
+![screenshot](screenshots/5.png)
 
-###### Add a Job Page
+###### User Add a Job Page
 
-![screenshot](screenshots/AddJob.png)
+![screenshot](screenshots/6.png)
 
-###### Profile Page
+###### User Applied Jobs Page
 
-![screenshot](screenshots/Profile.png)
+![screenshot](screenshots/7.png)
 
-The application is deployed to Heroku and can be accessed through the following link:
+###### User Profile Page
 
-[Job-Tracker on Heroku](https://job-tracker-production.herokuapp.com/)
+![screenshot](screenshots/8.png)
+
+######Recruiter Side
+
+###### Recruiter Login Page
+
+![screenshot](screenshots/r9.png)
+
+###### Recruiter Dashboard Page
+
+![screenshot](screenshots/r10.png)
+
+###### Recruiter AddJob Page
+
+![screenshot](screenshots/r11.png)
+
+###### Recruiter Profile Page
+
+![screenshot](screenshots/r12.png)
 
 You can add the jobs you've applied for and update their status to keep a track of your progress.
 
